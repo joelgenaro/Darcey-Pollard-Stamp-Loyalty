@@ -28,12 +28,10 @@ git clone https://github.com/joelgenaro/Test
    joelgenaro0202@gmail.com
    ```
 
-4. Here is the Live URL: https://joelgenaro-test.vercel.app/
+4. To check the result, click [here](https://joelgenaro-test.vercel.app/){:target="_blank"}
 
 
-   
-
-
+5. Video
 https://github.com/user-attachments/assets/0a02308f-a045-4157-a451-0340979eed45
 
 
