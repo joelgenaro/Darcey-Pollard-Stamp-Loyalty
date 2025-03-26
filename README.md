@@ -28,7 +28,7 @@ git clone https://github.com/joelgenaro/Test
    joelgenaro0202@gmail.com
    ```
 
-4. To check the result, click [here](https://joelgenaro-test.vercel.app/){:target="_blank"}
+4. To check the result, click [here](https://joelgenaro-test.vercel.app/){:target="_blank"}.
 
 
 5. Video
