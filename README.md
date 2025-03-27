@@ -9,7 +9,7 @@
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/joelgenaro/Test
+git clone https://github.com/joelgenaro/React-Figma-conversion-Test
 ```
 
 1. Install dependencies:
